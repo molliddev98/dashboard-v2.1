@@ -1,5 +1,9 @@
 # 🧑‍💻 Mollid Dev | Dashboard V2.1
 
+---
+
+### 🖼️ Screenshot
+
 ![](public/dashboard-v2.1.png)
 
 ## 🛠️ Teknologi yang Digunakan
