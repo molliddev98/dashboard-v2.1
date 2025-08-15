@@ -28,7 +28,7 @@ To get started follow these steps:
 Using CLI
 
 ```bash
-git clone [https://github.com/molliddev98/dashboard-v2.1]
+git clone https://github.com/molliddev98/dashboard-v2.1
 ```
 
 **\*\*_Ensure you have installed [Git](https://git-scm.com) on your machine._**
